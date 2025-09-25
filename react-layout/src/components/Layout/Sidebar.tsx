@@ -7,7 +7,6 @@ import {
   PlusOutlined, // Icon for Create User menu item
 } from '@ant-design/icons'; // Ant Design icon set
 
-
 const { Sider } = Layout; // Destructure Sider from Layout for concise usage
 const { Title } = Typography; // Destructure Title for concise usage in the brand area
 
